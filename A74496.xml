@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for the better ordering and disposing the estates under sequestration. Fryday, 10 February, 1653. / Ordered by His Highness the Lord Protector and his council, that this ordinance be forthwith printed and published. Henry Scobell clerk of the council.</title>
+            <author>England and Wales. Lord Protector (1653-1648 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74496</idno>
+            <idno type="STC">Thomason E1063_11</idno>
+            <idno type="EEBO-CITATION">50811945</idno>
+            <idno type="OCLC">ocm 50811945</idno>
+            <idno type="VID">169177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169177)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for the better ordering and disposing the estates under sequestration. Fryday, 10 February, 1653. / Ordered by His Highness the Lord Protector and his council, that this ordinance be forthwith printed and published. Henry Scobell clerk of the council.</title>
+                  <author>England and Wales. Lord Protector (1653-1648 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>[1], 83, 86-90 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and Henry Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653 [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169177:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE For the better ORDERING AND DISPOSING THE ESTATES UNDER Sequeſtration.</p>
+            <figure>
+               <figDesc>seal of the commonwealth of England</figDesc>
+            </figure>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Fryday,</hi> 10. <hi>February,</hi> 1653.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ORdered by His Highneſs the Lord Protector, and His Council, that this Ordinance be forthwith printed and publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>HENRY SCOBELL Clerk of the Council.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Prin<g ref="char:EOLhyphen"/>ters to His Highneſs the Lord Protector, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169177:2"/>
+            <pb n="83" facs="tcp:169177:2"/>
+            <head>
+               <figure>
+                  <figDesc>seal of the commonwealth of England</figDesc>
+               </figure>AN ORDINANCE For the better ordering and diſpoſing of the ESTATES under SEQUESTRATION.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Ordained by his Highneſs the Lord Protector, by and with the adviſe and conſent of His Coun<g ref="char:EOLhyphen"/>cil, That <hi>Joſias Bar<g ref="char:EOLhyphen"/>ners, Edward Winſ<g ref="char:EOLhyphen"/>low, Richard Moor, John Upton, Edward Cary,</hi> and <hi>Rice Wil<g ref="char:EOLhyphen"/>liams,</hi> Eſquires, or any four of them, be, and are hereby conſtituted and ordained, Commiſ<g ref="char:EOLhyphen"/>ſioners for the mannaging, ordering, and diſ<g ref="char:EOLhyphen"/>poſing
+<pb n="86" facs="tcp:169177:3"/> of the Eſtates of all Delinquents now ſequeſtred, or which ſhall be adjudged Delin<g ref="char:EOLhyphen"/>quents, upon caſes now depending, and of all Eſtates now under Sequeſtration for Recuſan<g ref="char:EOLhyphen"/>cy. And that the ſaid Commiſſioners, or any four of them, ſhall from and after the tenth day of <hi>February</hi> in the year one thouſand ſix hundred fifty and three, have power, and are hereby authorized to mannage, order, ſet, let, or diſpoſe of all and every the ſaid Eſtates, during ſuch time as the ſame ſhall remain under Se<g ref="char:EOLhyphen"/>queſtration. Provided, no Leaſe thereof to be granted, exceed the term of one year; And that the whole Rents, Revenues and Profits of the ſaid Sequeſtrations and Sequeſtred E<g ref="char:EOLhyphen"/>ſtates ſhall be paid in at <hi>Gold-Smiths</hi> Hall to the hands of <hi>Richard Sherwin</hi> and <hi>John Leech,
+<abbr>Eſqs</abbr>
+               </hi> who are hereby conſtituted and appointed Treaſurers of the ſaid Receit. And the ſaid Commisſioners are hereby authorized and re<g ref="char:EOLhyphen"/>quired to call all Commiſſioners for Sequeſtra<g ref="char:EOLhyphen"/>tions, Treaſurers, Receivers, and other perſons employed by the former Commisſio<g ref="char:EOLhyphen"/>ners for compounding, in the ſeveral Counties, to an Accompt for all and every Sum and Sums of money in their or any of their hands, of the ſaid Sequeſtred Eſtates, or any of them. And be it Ordained by the Authority aforeſaid, That all and every the Commisſi<g ref="char:EOLhyphen"/>oners for Sequeſtrations in the reſpective Counties, and all and every the Farmours, and Tenants of the ſaid Sequeſtred Eſtates, and all others, who have any part of the Rents or other profits of the ſaid ſequeſtred Eſtates in their hands, ſhall forthwith pay in the ſame un<g ref="char:EOLhyphen"/>to the Treaſurers before named, whoſe ac<g ref="char:EOLhyphen"/>quittance
+<pb n="87" facs="tcp:169177:3"/> ſhall be a ſufficient diſcharge to the perſons ſo paying in the ſame, for ſo much as ſhall be ſo paid in by them as aforeſaid; and if they, or any of them ſhall make default or neg<g ref="char:EOLhyphen"/>lect to pay in the ſame before the five and twen<g ref="char:EOLhyphen"/>tieth day of <hi>March</hi> 1654. That then they and every of them ſo making default, ſhall forfeit unto the Commonwealth ſo much more as the ſaid Commiſſioners herein named ſhall think fit, not exceeding the moyety of ſuch moneys as ſhall be diſcovered to be in their hands, or du upon their Accompt to be levyed upon their Lands, Goods and Chattles by order of the ſaid Commiſſioners; And the ſaid Commisſi<g ref="char:EOLhyphen"/>oners are hereby Authorized and impowred to continue or remove from time to time ſuch of the perſons now employed as Commisſioners for Sequeſtrations in the reſpective Counties, as they ſhall ſee cauſe, and to place other honeſt and able Perſons in their Room, as alſo o<g ref="char:EOLhyphen"/>ther Officers and Agents, and to reduce them to ſuch a number only as ſhall be neceſſary for the carrying on of this ſervice, and may moſt conduce to the leſſening of the publike charge. And the Commiſſioners for Sequeſtrations in the Country ſhall have and retain to their own uſe, for their Salary, twelve pence in the pound of all ſuch moneys as ſhall be paid by them into the Treaſury at <hi>Gold-Smiths-Hall,</hi> out of the profits of the ſaid Sequeſtred eſtates, and that all other Officers that ſhalbe employ<g ref="char:EOLhyphen"/>ed by the ſaid Commiſſioners in this Ordinance before named, ſhall have ſuch ſalary and allow<g ref="char:EOLhyphen"/>ance as the ſaid Commiſſioners ſhall think fit; And the ſaid Commiſſioners before named ſhall have and exerciſe ſuch and the like Powers and Authorities for compounding with all or any
+<pb n="88" facs="tcp:169177:4"/> the perſons named in one Act of Parlament, Entituled, <hi>An Additional Act for ſale of ſeveral Lands and Eſtates forfeited to the Common-wealth for Treaſon,</hi> and with the Heirs, Executors, or Aſſigns, of ſuch perſon or perſons, as the late Commiſſioners for Compounding, by vertu or the ſaid Act, had or might lawfully uſe or ex<g ref="char:EOLhyphen"/>erciſe according to the directions ſet down in the ſaid Act, and ſhall alſo have power to receive, ex<g ref="char:EOLhyphen"/>amine, hear, &amp; determine all matters concerning Claims, Charges or Incumbrances upon any the eſtates before mentioned, and to allow ſuch of them as ſhall appear to have been <hi>Bona fide</hi> made or charged before the Cauſe of Sequeſtra<g ref="char:EOLhyphen"/>tion committed and alſo to examine, hear and determine all Queſtions touching the Delin<g ref="char:EOLhyphen"/>quency of any of the perſons not formerly judg<g ref="char:EOLhyphen"/>ed, and to receive all informations touching any Debts, or other Eſtate belonging to any De<g ref="char:EOLhyphen"/>linquent or Papiſt under Sequeſtration, and to inquire into and examine what Eſtates, Charges or Incumbrances have been hereto<g ref="char:EOLhyphen"/>fore allowed upon the ſaid Sequeſtred eſtates, for life, years, or otherwiſe, which are expired or ſatisfied, and to take order for the re-ſequeſt<g ref="char:EOLhyphen"/>ring of ſuch Eſtates; And the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners herein named ſhall have power, and are hereby authorized to receive the whole or the remaining part of the Fines which have been ſet for the Compoſition of any Delinquent who hath elapſed the time of payment of all or any part thereof (either without intereſt, if the Commonwealth hath enjoyed the whole eſ<g ref="char:EOLhyphen"/>tate, or with intereſt, if the Delinquent hath en<g ref="char:EOLhyphen"/>joied the ſame) Provided, the ſaid fines, or the re<g ref="char:EOLhyphen"/>maining part of ſuch fines, be paid into the Trea<g ref="char:EOLhyphen"/>ſury aforeſaid, before the ſaid twentie fift day of
+<pb n="89" facs="tcp:169177:4"/> 
+               <hi>March</hi> now next comming; Provided alſo, that if it ſhal appear unto the ſaid Commiſſioners, that any of the Fines not yet paid in, were unduly charged or miſcaſt, the ſaid Commiſſioners ſhall have power and authority to rectifie the ſame, and upon payment of ſuch Fines, remainder of ſuch Fines as are unpaid, or the Fines ſo rectifyed, the ſaid Commiſſioners ſhall have po<g ref="char:EOLhyphen"/>wer to diſcharge the Sequeſtrations.</p>
+            <p>And be it further Ordained by the Authority aforeſaid, That the Commiſſioners aforenamed be impowred to iſſue out their order for payment of ſuch quit-rents, out-rents, and iſſues, as are duly charged upon, or iſſue out of the Eſtates under Sequeſtrations, and the arrears ther<g ref="char:EOLhyphen"/>of, ſince the four and twentieth of <hi>December</hi> 1649. and alſo to iſſue Warrants from time to time for repayment of monies there depoſited, or unduly received, or that ſhall hereafter be ſo depoſited or unduly received, as they ſhall ſee cauſe. And be it likewiſe Ordained by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That all and every Delin<g ref="char:EOLhyphen"/>quent whatever not having compounded, or be<g ref="char:EOLhyphen"/>ing inſerted into any Act for ſale, or the Heirs, Executors, or Asſigns of any ſuch Delinquent deceaſed, who ſhall diſcover any part of the re<g ref="char:EOLhyphen"/>al or perſonal eſtate of any ſuch Delinquent, which eſtate is not under actual Sequeſtration, nor diſpoſed of by the Parlament, ſhall be ad<g ref="char:EOLhyphen"/>mitted to compound for ſuch eſtate ſo by him diſcovered, at the rates following (that is to ſay) for real eſtates at one full years value, and for perſonal eſtates at one ſixth part, and that the Commisſioners aforenamed ſhall admit them to ſuch Compoſition accordingly; And that ſuch Fine as ſhall be ſet by the Commiſ<g ref="char:EOLhyphen"/>ſioners
+<pb n="90" facs="tcp:169177:5"/> according to the rules aforeſaid being paid, the Eſtate ſo compounded for ſhall be from thenceforth abſolutely diſcharged from being lyable to any Sequeſtration, Forfeiture, or o<g ref="char:EOLhyphen"/>ther Queſtion for or in reſpect of the Delinquen<g ref="char:EOLhyphen"/>cy of ſuch Delinquent. Provided, that ſuch Diſ<g ref="char:EOLhyphen"/>covery and Compoſition be perfected, and the money paid before the twentieth day of <hi>April,</hi> 1654. And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That the ſaid Commisſioners herein named, and the Commisſioners for Se<g ref="char:EOLhyphen"/>queſtrations in the reſpective Counties, ſhall have power, and are hereby authorized, to exa<g ref="char:EOLhyphen"/>mine witneſſes upon oath, if they ſhall ſee cauſe, in all Caſes depending, or which ſhall depend be<g ref="char:EOLhyphen"/>fore them, and concerning any eſtate under Se<g ref="char:EOLhyphen"/>queſtration.</p>
+            <p>And laſtly it is Ordained, That the Commisſi<g ref="char:EOLhyphen"/>oners herein named be authorized and impow<g ref="char:EOLhyphen"/>red to hear and determine all Cauſes which were on the one and thirtieth of <hi>January</hi> laſt de<g ref="char:EOLhyphen"/>pending before the Commisſioners for Com<g ref="char:EOLhyphen"/>pounding, according to the Acts and Ordinances for giving Indempnity, as the ſaid Commisſi<g ref="char:EOLhyphen"/>oners might and ought to have done by force of an Act, entituled, <hi>An Act for transferring the powers of the Committee for Indempnity.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <head>
+               <hi>Fryday, February</hi> 10. 1653.</head>
+            <p>ORdered by his Highneſs the Lord Protector, and his Council, That this Ordinance be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
